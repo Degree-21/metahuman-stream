@@ -15,4 +15,5 @@ pretrained
 *.mp4
 .DS_Store
 workspace/log_ngp.txt
-.idea
+.idea/
+
